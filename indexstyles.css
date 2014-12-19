@@ -9,3 +9,11 @@ div {
   width: 100%;
   text-align: center;
 }
+
+button {
+  width: 103px;
+  height: 37px;
+  margin-top: 15px;
+  margin-left: 60px;
+  border-width: 3px;
+}
